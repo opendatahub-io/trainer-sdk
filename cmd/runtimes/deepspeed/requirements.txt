@@ -6,4 +6,4 @@ mpi4py==4.0.3
 # HuggingFace libraries.
 datasets==3.4.1
 transformers==4.50.0
-SentencePiece==0.2.0
+SentencePiece==0.2.1
